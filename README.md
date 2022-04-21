@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> setting up git installation and adding files
+> etting up git installation and adding files
 
 
 ## Built With
